@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## KARYAWATI.com
 
-You can use the [editor on GitHub](https://github.com/karyawati/karyawati.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Proyek-proyek di laman ini merupakan hasil latihan dari belajar pemrograman daring mulai 8 Desember 2021. 
+Bila kamu ingin ikut berkolaborasi mengembangkan proyek yang telah dibuat, silakan kunjungi laman github di https://github.com/karyawati/.
 
 ### Markdown
 
