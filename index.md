@@ -4,4 +4,4 @@ Proyek-proyek di laman ini merupakan hasil latihan dari belajar pemrograman dari
 Bila kamu ingin ikut berkolaborasi mengembangkan proyek yang telah dibuat, silakan kunjungi laman di <a href="https://github.com/karyawati/">GitHub</a>.
 
 ### Proyek 
-- DAFTAR HARGA
+- <a href="cek.karyawati.com">CEK HARGA</a> 
